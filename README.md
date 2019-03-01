@@ -1,4 +1,4 @@
-# Topic Modelling using Latent Drichlet Allocation (LDA)
+# English to French Machine Translation with Seq2Seq Model (Keras)
 
 <p align="center"><img src="images/hello.jpg" height = "256"></p>
 
