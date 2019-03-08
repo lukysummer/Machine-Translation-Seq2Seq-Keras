@@ -2,8 +2,8 @@
 
 <p align="center"><img src="images/hello.jpg" height = "256"></p>
 
-This is my implementation of English to French machine translation using seq2seq model in Keras.
-Due to limited computing power of AWS free tier EC2 instance, I used a dataset of small vocabulary size (200~300 words).
+This is my implementation of English to French machine translation using **Encoder-Decoder Seq2Seq model** in Keras.
+Due to limited computing power of AWS EC2 instance that I used, I worked with a dataset of small vocabulary size (200~300 words).
 
 
 At the end, the model was able to perfectly translate from an english sentence to a french sentence within the supplemented vocabulary.
