@@ -2,7 +2,7 @@
 
 <p align="center"><img src="images/hello.jpg" height = "256"></p>
 
-This is my implementation of English to French machine translation using **Encoder-Decoder Seq2Seq model** in Keras, as a project for Udacity's Natural Language Processing Nanodegree ([Course Page])(https://www.udacity.com/course/natural-language-processing-nanodegree--nd892).
+This is my implementation of English to French machine translation using **Encoder-Decoder Seq2Seq model** in Keras, as a project for Udacity's Natural Language Processing Nanodegree ([Course Page](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)).
 Due to limited computing power of AWS EC2 instance that I used, I worked with a dataset of small vocabulary size (200~300 words).
 
 
@@ -36,5 +36,5 @@ I referenced the following sources for building & debugging the final model :
 * https://nextjournal.com/gkoehler/machine-translation-seq2seq-cpu
 * https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/
 * https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
-* Udacity's Natural Language Processing Nanodegree's workspace ([Course Page])(https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
+* Udacity's Natural Language Processing Nanodegree's workspace ([Course Page](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892))
 
